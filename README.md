@@ -5,7 +5,6 @@
 1. [android 不透明度16进制值](http://www.th7.cn/Program/Android/201501/344556.shtml "Title")
 1. [在线代码格式化](http://tool.oschina.net/codeformat/json "Title")
 1. [手动集成 | Bugtags 是移动时代首选 Bug 管理系统，针对不同的使用场景，Bugtags 具有以下强大特性： - 移动时代首选 Bug 管理系统 | 简单·高效·智能·云端管理](https://docs.bugtags.com/zh/start/integrate/android/manually.html "Title")
-1. [墨刀 - 猿理](https://mockingbot.com/workspace#apps/p88946F55BA1457319844154/templates "Title")
 1. [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/ "Title")
 1. [多态-vpn](https://duotai.org/dashboard "Title")
 1. [getlantern/lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.](https://github.com/getlantern/lantern "Title")
